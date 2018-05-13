@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="museum">
+        <item >大英博物馆</item>
+        <item >卢浮宫博物馆</item>
+        <item >纽约博物馆</item>
+        <item >俄罗斯博物馆</item>
+        <item >故宫博物馆</item>
+    </string-array>
+</resources>
